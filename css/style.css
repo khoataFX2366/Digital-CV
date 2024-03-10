@@ -1,0 +1,9 @@
+
+.outer{
+    display: grid;
+    grid-template-columns: 75% 25%;
+    margin: 30px;
+    gap: 10px;
+    background-color: blue;
+    }
+.coler{background-color: rgb(228, 241, 241);}
